@@ -1,0 +1,291 @@
+	<!--<div id="contracheque">
+    
+   	  <div id="cabecalho">
+        
+        <?=$cliente_fornecedor->razao_social?>
+        
+        <div style="float:right;font-weight:bold;">Demonstrativo de Pagamento de Salário</div>
+      
+      	<div style="clear:both"></div>
+      
+      	<?=$cliente_fornecedor->endereco?>
+        
+        <div style="clear:both"></div>
+        
+        <?=$periodo?>
+        
+        <div style="float:right;"><?=$cliente_fornecedor->cnpj_cpf?></div>
+      
+      </div>
+        
+      	<div id="informacao_funcionario">
+        	
+            <?=$funcionario->nome?>
+            
+             <div style="float:right;"><?=$funcionario->cargo?></div>
+            
+        </div>
+        
+        <div id="descricao_salario">     	
+           
+           		
+                
+          		<table id="coluna_tributos" cellspacing="0">
+                	<tr style="font-size:10px">
+                    	<td style="width:50px;">Cód</td>
+                        <td style="width:300px;">Descrição</td>
+                        <td style="width:100px;">Referência</td>
+                        <td style="width:100px;">Vencimentos</td>
+                        <td style="width:100px;">Descontos</td>
+                    </tr>
+                </table>
+                
+                <table id="tributos_salario">
+                    <tr>
+                    	<td style="width:51px;"></td>
+                        <td style="width:300px;">Salário</td>
+                        <td style="width:100px;"></td>
+                        <td style="width:100px;"><?=MoedaUsaToBr($rh_folha_funcionario->salario_base)?></td>
+                        <td style="width:100px;border-right:none;"></td>
+                    </tr>                    
+                   <?
+				   		if($rh_folha_funcionario->horas_extras_horas_50 > 0){
+				   ?>
+                   	<tr>
+                    	<td ></td>
+                        <td >Hora Extra 50%</td>
+                        <td></td>
+                        <td><?=MoedaUsaToBr($rh_folha_funcionario->horas_extras_horas_50)?></td>
+                        <td style="width:100px;border-right:none;"></td>
+                    </tr>
+                   <?
+						}
+						if($rh_folha_funcionario->horas_extras_horas_100 > 0){
+				   ?>
+                   	<tr>
+                    	<td></td>
+                        <td>Hora Extra 100%</td>
+                        <td></td>
+                        <td><?=MoedaUsaToBr($rh_folha_funcionario->horas_extras_horas_100)?></td>
+                        <td style="width:100px;border-right:none;"></td>
+                    </tr>
+                   <?
+						}
+						if($rh_folha_funcionario->dsr_hora_extra > 0){
+                   ?>
+                    	<tr>
+                    	<td></td>
+                        <td>DSR</td>
+                        <td></td>
+                        <td><?=MoedaUsaToBr($rh_folha_funcionario->dsr_hora_extra)?></td>
+                        <td style="width:100px;border-right:none;"></td>
+                    </tr>
+                   	<?
+						}
+						if($rh_folha_funcionario->comissao > 0){
+                   ?>
+                    	<tr>
+                    	<td></td>
+                        <td>Comissão</td>
+                        <td></td>
+                        <td><?=MoedaUsaToBr($rh_folha_funcionario->comissao)?></td>
+                        <td style="width:100px;border-right:none;"></td>
+                    </tr>
+                   	<?
+						}
+						if($rh_folha_funcionario->gratificacao > 0){
+                   ?>
+                    <tr>
+                    	<td></td>
+                        <td>Gratificação</td>
+                        <td></td>
+                        <td><?=MoedaUsaToBr($rh_folha_funcionario->gratificacao)?></td>
+                        <td style="width:100px;border-right:none;"></td>
+                    </tr>
+                   	<?
+						}
+						
+                        if($rh_folha_funcionario->deducao_adiantamento > 0){
+                   ?>
+                    <tr>
+                    	<td></td>
+                        <td>Adiantamento</td>
+                        <td></td>
+                        <td><?=MoedaUsaToBr($rh_folha_funcionario->deducao_adiantamento)?></td>
+                        <td style="width:100px;border-right:none;"></td>
+                    </tr>
+                   	<?
+						}
+					   if($rh_folha_funcionario->deducao_irpf > 0){
+                   ?>
+                    <tr>
+                    	<td></td>
+                        <td>IRPF</td>
+                        <td></td>
+                        <td><?=MoedaUsaToBr($rh_folha_funcionario->deducao_irpf)?></td>
+                        <td style="width:100px;border-right:none;"></td>
+                    </tr>
+                   	<?
+						}
+					   if($rh_folha_funcionario->deducao_inss > 0){
+                   ?>
+                    <tr>
+                    	<td></td>
+                        <td>INSS</td>
+                        <td></td>
+                        <td>&nbsp;</td>
+                        <td style="width:100px;border-right:none;"><?=MoedaUsaToBr($rh_folha_funcionario->deducao_inss)?></td>
+                    </tr>
+                   	<?
+						}
+						   if($rh_folha_funcionario->fgts > 0){
+                   ?>
+                    <tr>
+                    	<td></td>
+                        <td>FGTS</td>
+                        <td></td>
+                        <td></td>
+                        <td style="width:100px;border-right:none;"><?=MoedaUsaToBr($rh_folha_funcionario->fgts)?></td>
+                    </tr>
+                   	<?
+						}
+						if($rh_folha_funcionario->salario_familia_valor > 0){
+                   ?>
+                    <tr>
+                    	<td></td>
+                        <td>Salário Família</td>
+                        <td></td>
+                        <td></td>
+                        <td style="width:100px;border-right:none;"><?=MoedaUsaToBr($rh_folha_funcionario->salario_familia_valor)?></td>
+                    </tr>
+                   	<?
+						}
+					?> 
+                    </table>
+                                      
+           
+           
+        </div>
+        
+         <div id="descontos_salarios">     	
+           
+           	<div class="desconto_fgts">
+            
+            	<div class="campos">
+           			Saldo Base
+           		</div>
+                
+                <div style="clear:both"></div>
+           		<?=$ultimo_salario_base?>
+           </div>
+           <div class="desconto_fgts">
+            
+            	<div class="campos">
+           			Sal. Contri. INSS
+           		</div>
+                
+                <div style="clear:both"></div>
+           		<?=$ultimo_salario_base?>
+           </div>
+           
+           <div class="desconto_fgts">
+            
+            	<div class="campos">
+           			&nbsp;	
+           		</div>
+                
+                <div style="clear:both"></div>
+                
+           		8,00
+           </div>
+           
+            <div class="desconto_fgts">
+            
+            	<div class="campos">
+           			Base Cál. FGTS	
+           		</div>
+                
+                <div style="clear:both"></div>
+           		583,34
+           </div>
+           
+           <div class="desconto_fgts">
+            
+            	<div class="campos">
+           			F.G.T.S do mês	
+           		</div>
+                
+                <div style="clear:both"></div>
+           		46,67
+           </div>
+           
+           <div class="desconto_fgts">
+            
+            	<div class="campos">
+           			Base Cálc. IRRF	
+           		</div>
+                
+                <div style="clear:both"></div>
+           		1073,34
+           </div>
+           
+           <div class="desconto_fgts">
+            
+            	<div class="campos">
+           			Faixa IRRF	
+           		</div>
+                
+                <div style="clear:both"></div>
+           		
+           </div>
+           
+        </div>
+        
+         <div id="rodape">     	
+           DECLARO TER RECEBIDO A IMPORTÂNCIA LÍQUIDA DISCRIMINADA NESTE RECIBO
+           
+           
+           <div style="clear:both"></div>
+           
+         	 <div style="float:left;margin-top:25px;width:120px;">
+        	            
+            <div class="linha_assinatura" style="width:35px;float:left;margin-top:10px;">
+    		</div>
+        	
+            <div style="float:left"> / </div>
+            
+            <div class="linha_assinatura" style="width:35px;float:left;margin-top:10px;">
+    		</div>
+        	
+            <div style="float:left"> / </div>
+            
+            <div class="linha_assinatura" style="width:35px;float:left;margin-top:10px;">
+    		</div>
+            
+            <div style="clear:both"></div>
+            
+            
+            
+            <div style="text-align:center">
+            Data
+            </div>
+    		</div>
+            
+            
+            <div style="float:right;margin-top:35px;width:500px;">
+        	            
+            <div class="linha_assinatura">
+    		</div>
+        	
+            <div style="clear:both"></div>
+            
+            <div style="text-align:center">
+            Assinatura do Empregado
+            </div>
+    		</div>
+           
+           
+        </div>  
+         
+         
+         </div> --> 

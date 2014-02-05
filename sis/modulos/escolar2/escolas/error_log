@@ -1,0 +1,22 @@
+[11-Mar-2013 09:23:16 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:23:16 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[11-Mar-2013 09:23:17 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:23:17 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[11-Mar-2013 09:23:43 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:23:43 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[11-Mar-2013 09:23:46 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:23:46 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[11-Mar-2013 09:24:10 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:24:10 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[11-Mar-2013 09:25:03 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:25:03 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[11-Mar-2013 09:25:28 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:25:28 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[11-Mar-2013 09:58:08 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:58:08 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[11-Mar-2013 09:58:19 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:58:19 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[11-Mar-2013 09:58:21 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[11-Mar-2013 09:58:21 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14
+[19-Jun-2013 15:26:02 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 12
+[19-Jun-2013 15:26:02 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/escolas/busca_salas.php on line 14

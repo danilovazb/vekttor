@@ -1,0 +1,21 @@
+<?php
+
+function update($campos){
+	global $vkt_id;
+	
+	
+}/*fim da função*/
+
+function cadastra($campos){
+		global $vkt_id;
+				
+				
+	
+}/*fim da função*/
+
+function excluir($id){
+				
+			
+}/*fim da função*/
+
+?>

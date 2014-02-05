@@ -1,0 +1,10 @@
+[12-Apr-2012 19:20:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 172
+[12-Apr-2012 19:20:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 372
+[12-Apr-2012 19:20:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 382
+[12-Apr-2012 19:24:12 UTC] PHP Catchable fatal error:  Argument 1 passed to EleitoralSMSController::VerificaEnvio() must be an array, null given, called in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 367 and defined in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 128
+[12-Apr-2012 19:24:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 172
+[12-Apr-2012 19:24:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 372
+[12-Apr-2012 19:24:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 382
+[12-Apr-2012 19:24:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 172
+[12-Apr-2012 19:24:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 372
+[12-Apr-2012 19:24:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/sysms/control/EleitoralSMSController.class.php on line 382

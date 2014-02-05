@@ -1,0 +1,2 @@
+[09-Jul-2012 18:40:11 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/area_aluno/mensagens/mensagem_para_professor.php on line 49
+[09-Jul-2012 18:40:35 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/area_aluno/mensagens/mensagem_para_professor.php on line 49

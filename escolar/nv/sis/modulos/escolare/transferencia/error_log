@@ -1,0 +1,1 @@
+[27-Feb-2013 12:35:08 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/escolar/nv/sis/modulos/escolare/transferencia/_ctrl.php on line 28

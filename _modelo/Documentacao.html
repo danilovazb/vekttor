@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Documento sem título</title>
+<style type="text/css">
+body,td,th {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 16px;
+}
+</style>
+</head>
+
+<body>
+<p><strong>Todos os atibutos devem estar com dentro do campo input que estejam dentro do formulário informado na index dentro de script que chama o plugin<br />
+  <br />
+  Busca</strong> <br />
+  <br />
+  busca='url_destino,Informacao exibida,Retorno do selecionado,array de cache'<br />
+  <br />
+  url_destino <br />
+  Lembrar que term que ter o caminho completo apartir do /sis<br />
+  <br />
+  Informação exibida<br />
+  ex: o que vem do pho <br />
+  cada uma qubra de linha é um registro independete<br />
+  @r0|@r1|@r2|@r3|@r<br />
+  cpf|nome|idade|nascimento|endereco<br />
+  cpf|nome|idade|nascimento|endereco<br />
+  cpf|nome|idade|nascimento|endereco<br />
+  cpf|nome|idade|nascimento|endereco<br />
+  <br />
+  Retorno<br />
+  @r0-value&gt;ID_HTML_DESTINO<br />
+  <br />
+  @r0-value&gt;cpf(cpf é o id do input que etá html)<br />
+  @r0-value&gt;cpf|@r2-value&gt;idade|@r2-innerHTML&gt;enderco (endereco é id da div onde será preenchid com o endereco )
+  <br />
+  <br />
+  <strong>Mascara</strong><br />
+</p>
+<p>Masca mantem tudo que estiver diferente de Underline (_), e subistitue o poe os valor digidado no lugar dos underlines (_)</p>
+<p>Exemplos de mascara<br />
+  mascara='(__)____-____' telefone<br />
+mascara='__.___.___-__' CPF <br />
+mascara='__/__/____' data<br />
+CEP<br />
+Etre outro<br />
+<br />
+<strong>sonumero</strong><br />
+<br />
+O sonumero quando atribuido um valor de 1 (ativar) ele diz ao campo que so pode ser preenchido com numero</p>
+<p>Ex<br />
+sonumero='1'<br />
+<br />
+<strong>decimal</strong><br />
+decimal=&quot;5&quot;<br />
+<br />
+<strong>calendario</strong><br />
+<br />
+quando atribuido o valor igual a 1 exibe o calendário ao lado do campo onde foi atribuido quando o campo está em foco.
+<br />
+<br />
+calendario='1'<br />
+</p>
+<p><strong>Validação</strong><br />
+  <br />
+  Para validação funcionar tem que ser colocado no form onsubmit=&quot;return validaForm(this)&quot; <br />
+  <br />
+  retorno(atributo)<br />
+  </strong><br />
+  ex<br />
+  retorno='focus|Coloque no minimo 5 caracteres no nome'<br />
+  <strong><br />
+  Tipos de validação<br />
+  <br />
+  limite de caracteres<br />
+  <br />
+</strong>Limita no minio de caractere que deve ter em um campo</p>
+<p>valida_minlength='5'<br />
+  <br />
+  <strong>valida data </strong><br />
+  <br />
+  Data minima e data Maxima<br />
+  Minimo de data<br />
+  valida_data=<strong>'25/08/2010</strong>,99/99/9999'<br />
+  data Máximo<br />
+  valida_data='01/01/0001,<strong>25/08/2010'</strong><br />
+  <br />
+  <br />
+  </p>
+<strong>Valida Idade</strong><br />
+<br /> 
+ou idade entre x e y Esse tem que ser colocado em um campo com formatação de data dd/mm/aaaa<br />
+<br />
+valida_idade='10,17'<br />
+<br />
+<strong>Valida valores numericos</strong><br />
+<br />
+valida_valor='min,max'<br />
+valida_valor='100,1000'<br />
+<br />
+<strong>Valida Email</strong><br />
+valida_email='1'<br />
+<br />
+<strong>Valida checkbox</strong><br />
+Valida se o campo chack está selecionado
+<br />
+Ex:<br />
+valida_check='1'<br />
+<br />
+<strong>Validador de Senha ou confirmação de email ou usuario</strong><br />
+<br />
+no campo que ter que ser igual ao primeiro coloca o valor sendo o id do primeiro campo.
+<br />
+valida_igual='senha1'<br />
+<br />
+<br />
+<strong>Dicas</strong><br />
+<br />
+Se não funcionar alguma coisa nao ponha cupa no codigo, verifice que tem um id no input;<br />
+<br />
+<br />
+</p>
+</body>
+</html>

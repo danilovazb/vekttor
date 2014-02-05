@@ -1,0 +1,3 @@
+[05-Jul-2012 15:37:35 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/salas/form_alunos.php on line 60
+[05-Jul-2012 15:37:43 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/salas/form_alunos.php on line 60
+[05-Jul-2012 15:37:51 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/salas/form_alunos.php on line 60

@@ -1,0 +1,30 @@
+
+	id 	
+	vkt_id
+ 	
+	xx - periodo_id 		 	
+	xx - responsavel_id 	
+	xx - escola_id 	
+	xx - curso_id 	
+	xx - modulo_id 	
+	xx - horario_id
+ 	
+	aluno_id
+	turma_id 	
+	data_vencimento 	
+	data_pagamento 	
+	pago S = SIM, N = NÃO, C = CANCELADO POR NÃO PAGAR NO PRAZO e V = CASO VALOR DO PAGAMENTO DO BOLETO SEJA DIFERENTE DO VALOR DO CURSO (Fraude?)	
+	tipo_matricula MATRÍCULA e REMATRÍCULA	
+	data_criacao 	
+	navegador 	
+	valor 	
+	valor_pago 	
+	bolsista 	
+	arquivo_retorno_id 	
+	fatura_boleto
+
+	
+	
+	
+			TURMA
+				

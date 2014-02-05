@@ -1,0 +1,60 @@
+[12-Apr-2012 20:10:43 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 49
+[12-Apr-2012 20:10:43 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 49
+[12-Apr-2012 20:12:59 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 49
+[12-Apr-2012 20:13:13 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 49
+[29-Jun-2012 17:08:20 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 126
+[29-Jun-2012 17:08:21 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[29-Jun-2012 17:08:21 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[29-Jun-2012 17:09:04 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 126
+[29-Jun-2012 17:09:04 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[29-Jun-2012 17:09:04 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[29-Jun-2012 17:11:56 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 126
+[29-Jun-2012 17:11:56 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[29-Jun-2012 17:11:56 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[02-Aug-2012 15:39:20 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:25:15 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 126
+[15-Aug-2012 15:26:01 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 126
+[15-Aug-2012 15:35:01 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:44:03 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:44:04 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:44:04 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:44:10 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:44:10 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:44:19 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:44:19 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:44:55 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:45:18 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:45:18 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:45:33 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:45:33 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:46:25 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 15:46:36 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[15-Aug-2012 17:43:44 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[16-Aug-2012 14:56:44 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[16-Aug-2012 14:56:51 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[16-Aug-2012 14:56:56 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[16-Aug-2012 14:57:02 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[16-Aug-2012 14:57:07 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[16-Aug-2012 14:57:12 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[16-Aug-2012 14:57:17 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[25-Aug-2012 14:59:48 UTC] PHP Warning:  unlink(fotos_produtos/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/nv/public_html/sis/modulos/estoque/produtos/deletar_foto.php on line 12
+[25-Aug-2012 14:59:49 UTC] PHP Warning:  unlink(fotos_produtos/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/nv/public_html/sis/modulos/estoque/produtos/deletar_foto.php on line 12
+[25-Aug-2012 18:26:14 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[25-Aug-2012 18:49:59 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/nv/public_html/sis/modulos/estoque/produtos/lista_de_produtos_impressao.php:1) in /home/nv/public_html/sis/_config.php on line 2
+[25-Aug-2012 18:50:28 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/nv/public_html/sis/modulos/estoque/produtos/lista_de_produtos_impressao.php:1) in /home/nv/public_html/sis/_config.php on line 2
+[25-Aug-2012 18:51:30 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/nv/public_html/sis/modulos/estoque/produtos/lista_de_produtos_impressao.php:1) in /home/nv/public_html/sis/_config.php on line 2
+[25-Aug-2012 19:13:48 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/lista_de_produtos_impressao.php on line 82
+[30-Aug-2012 14:38:14 UTC] PHP Warning:  unlink(fotos_produtos/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/nv/public_html/sis/modulos/estoque/produtos/deletar_foto.php on line 12
+[30-Aug-2012 15:13:42 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 15:15:48 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 15:17:26 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 15:18:43 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 15:20:49 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 15:24:49 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 15:39:09 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 18:44:57 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 19:08:23 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 19:09:48 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 20:30:38 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 20:32:51 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130
+[30-Aug-2012 20:33:20 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/estoque/produtos/form.php on line 130

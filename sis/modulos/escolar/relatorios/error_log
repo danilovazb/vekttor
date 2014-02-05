@@ -1,0 +1,2 @@
+[03-Jul-2012 16:03:43 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/relatorios/alunos_lista_print.php on line 58
+[11-Jul-2012 18:40:36 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/relatorios/relatorio_sintetico_print.php on line 63

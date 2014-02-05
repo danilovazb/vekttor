@@ -1,0 +1,34 @@
+[04-Oct-2012 13:54:59 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/_ctrl.php on line 23
+[04-Oct-2012 13:55:13 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/_ctrl.php on line 23
+[04-Oct-2012 13:56:44 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/_ctrl.php on line 23
+[04-Oct-2012 13:58:26 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/_ctrl.php on line 23
+[04-Oct-2012 13:58:36 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/_ctrl.php on line 23
+[04-Oct-2012 14:45:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 181
+[04-Oct-2012 14:45:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 181
+[04-Oct-2012 14:45:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 181
+[04-Oct-2012 14:45:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 181
+[04-Oct-2012 14:45:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 181
+[04-Oct-2012 14:45:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 181
+[04-Oct-2012 14:45:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 181
+[04-Oct-2012 14:45:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 181
+[04-Oct-2012 14:45:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 181
+[08-Oct-2012 17:17:02 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 467
+[08-Oct-2012 17:17:30 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 467
+[08-Oct-2012 18:19:42 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 476
+[08-Oct-2012 18:27:14 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 479
+[08-Oct-2012 18:27:59 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 479
+[08-Oct-2012 18:29:10 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 479
+[08-Oct-2012 18:29:22 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 479
+[08-Oct-2012 18:38:02 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 479
+[08-Oct-2012 18:39:28 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[08-Oct-2012 18:39:50 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[08-Oct-2012 18:51:42 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[08-Oct-2012 20:36:21 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[08-Oct-2012 20:48:12 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[09-Oct-2012 14:48:56 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[09-Oct-2012 17:06:47 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[09-Oct-2012 17:06:49 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[09-Oct-2012 17:06:50 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[09-Oct-2012 17:06:52 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[09-Oct-2012 17:08:06 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478
+[09-Oct-2012 17:47:34 UTC] PHP Warning:  Division by zero in /home/nv/public_html/sis/modulos/revenda_vekttor/venda/form.php on line 478

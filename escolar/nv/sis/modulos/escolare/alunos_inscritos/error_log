@@ -1,0 +1,4 @@
+[27-Feb-2013 12:35:12 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/escolar/nv/sis/modulos/escolare/alunos_inscritos/impressao_aluno.php on line 5
+[27-Feb-2013 12:35:12 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/escolar/nv/sis/modulos/escolare/alunos_inscritos/impressao_aluno.php on line 6
+[27-Feb-2013 12:35:12 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/escolar/nv/sis/modulos/escolare/alunos_inscritos/impressao_aluno.php on line 7
+[27-Feb-2013 12:35:12 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/escolar/nv/sis/modulos/escolare/alunos_inscritos/impressao_aluno.php on line 77

@@ -1,0 +1,4 @@
+[15-Aug-2012 23:17:25 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/aluguel/contrato/form.php on line 37
+[15-Aug-2012 23:17:28 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/aluguel/contrato/form.php on line 37
+[15-Aug-2012 23:17:29 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/aluguel/contrato/form.php on line 37
+[15-Aug-2012 23:17:33 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/aluguel/contrato/form.php on line 37

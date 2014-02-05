@@ -1,0 +1,110 @@
+[24-Sep-2012 15:59:54 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/busca_cliente_fornecedor.php on line 21
+[24-Sep-2012 15:59:54 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/busca_cliente_fornecedor.php on line 21
+[24-Sep-2012 16:01:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/busca_cliente_fornecedor.php on line 21
+[24-Sep-2012 16:01:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/busca_cliente_fornecedor.php on line 21
+[24-Sep-2012 17:35:40 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/busca_cliente_vekttor.php on line 21
+[24-Sep-2012 17:35:40 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/busca_cliente_vekttor.php on line 21
+[25-Sep-2012 14:34:37 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:36:14 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:36:16 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:36:28 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:36:36 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:36:52 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:37:28 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:37:34 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:38:01 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:38:51 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[25-Sep-2012 14:38:53 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 227
+[01-Oct-2012 17:13:15 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 122
+[01-Oct-2012 17:19:52 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 118
+[01-Oct-2012 17:20:18 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:21:09 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:22:34 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:23:35 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:24:02 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:24:02 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:24:02 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:24:02 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:25:54 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:25:54 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:25:54 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 17:25:54 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 119
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:51:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 139
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 128
+[01-Oct-2012 18:59:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 130
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 18:59:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 131
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[01-Oct-2012 19:00:57 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/form.php on line 129
+[10-Oct-2012 14:05:10 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/impressao_contrato.php on line 43
+[10-Oct-2012 14:05:40 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/impressao_contrato.php on line 43
+[10-Oct-2012 14:06:07 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/impressao_contrato.php on line 42
+[10-Oct-2012 14:06:33 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/impressao_contrato.php on line 42
+[10-Oct-2012 14:06:34 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/impressao_contrato.php on line 42
+[10-Oct-2012 14:06:34 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/impressao_contrato.php on line 42
+[10-Oct-2012 14:06:35 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/revenda/impressao_contrato.php on line 42

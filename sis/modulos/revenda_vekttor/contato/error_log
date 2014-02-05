@@ -1,0 +1,4 @@
+[10-Oct-2012 20:58:02 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/contato/form.php on line 397
+[11-Oct-2012 17:29:59 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/contato/form.php on line 397
+[11-Oct-2012 17:30:07 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/contato/form.php on line 397
+[11-Oct-2012 17:30:36 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/revenda_vekttor/contato/form.php on line 397

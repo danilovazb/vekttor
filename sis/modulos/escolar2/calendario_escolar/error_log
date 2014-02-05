@@ -1,0 +1,1 @@
+[28-Jun-2013 11:48:02 America/Boa_Vista] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/nv/public_html/sis/modulos/escolar2/calendario_escolar/form_agenda.php:1) in /home/nv/public_html/sis/_config.php on line 2

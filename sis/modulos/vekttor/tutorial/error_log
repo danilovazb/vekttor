@@ -1,0 +1,4 @@
+[11-Oct-2012 14:43:36 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'nv'@'localhost' (using password: NO) in /home/nv/public_html/sis/modulos/vekttor/tutorial/index.php on line 2
+[11-Oct-2012 14:43:36 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/nv/public_html/sis/modulos/vekttor/tutorial/index.php on line 2
+[11-Oct-2012 14:43:36 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/vekttor/tutorial/index.php on line 2
+[11-Oct-2012 14:43:36 UTC] PHP Fatal error:  Call to undefined function paginacao_links() in /home/nv/public_html/sis/modulos/vekttor/tutorial/index.php on line 108

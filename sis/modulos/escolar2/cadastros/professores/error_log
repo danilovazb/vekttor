@@ -1,0 +1,37 @@
+[15-Mar-2013 13:24:06 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 193
+[15-Mar-2013 13:24:06 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:24:06 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:24:06 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:24:19 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:24:19 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:24:19 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:24:40 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:24:40 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:28:50 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:28:50 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:29:28 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:29:28 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 204
+[15-Mar-2013 13:30:33 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:33 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:34 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:34 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:34 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:34 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:34 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:34 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:35 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:35 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:56 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:56 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:57 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:57 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:59 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:30:59 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:31:13 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:31:13 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 205
+[15-Mar-2013 13:34:10 America/Boa_Vista] PHP Warning:  Invalid argument supplied for foreach() in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 207
+[20-Mar-2013 11:47:20 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 200
+[20-Mar-2013 11:49:44 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 200
+[20-Mar-2013 11:51:44 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 200
+[20-Mar-2013 11:51:50 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 200
+[20-Mar-2013 11:52:48 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/cadastros/professores/form.php on line 200

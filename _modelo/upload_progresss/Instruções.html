@@ -1,0 +1,63 @@
+1 - Target vai para o carregador, a função de upload continuan no mesmo jeito e local do normal
+2 - Colocar o campo hidden do UPLOAD_IDENTIFIER no formulario
+	<?
+    $id_progresso = md5(microtime() . rand());
+    ?>
+
+    <input id="id_chave" type="hidden" name="UPLOAD_IDENTIFIER" value="<?php echo $id_progresso;?>" />
+
+2 - Deixar o espço da barra de progresso HTML Abaixo 
+
+                <div id='vkt_barra' style="width:300px; display:none; height:20px; position:relative; border-radius:5px; border:1px solid #CCC; margin:5px; padding:1px; text-align:center; ">
+                                <div id='vkt_barra_progresso' style="height:20px; text-align:center; border-radius:5px; width:0%; background:#093;">
+                                </div>
+                                <span style="position:absolute; width:300px; height:20px; line-height:20px;  top:0; left:0; font-weight:bold;"><span id="progresso">Carregando</span>%</span>
+                        </div>
+
+3 - Copiar o Javascript para página (index) a principal do tela, Verificar o id do form tem que ficaar id="form_arquivo"
+
+
+
+			<script>
+            $('#form_arquivo').live('submit',function(){
+                checaprogresso();
+            });
+            
+            function checaprogresso(){
+                id_chave=$("#id_chave").val();
+                
+                d = new Date();
+                s = d.getTime();
+                url = '<?=$tela->caminho?>/informacao_do_progresso.php?id_progresso='+id_chave+'&'+s;	
+                carregabarra(url);
+            }
+            
+            
+            function carregabarra(url){
+                console.log(url);
+                if($("#vkt_barra").css('display')=='none'){
+                    $("#vkt_barra").slideDown();
+                }
+                $("#progresso").load(url, function() {
+                    porcentagem = $("#progresso").html();
+                    $("#vkt_barra_progresso").css("width",porcentagem.replace(',','.')+'%');
+                
+                    if($("#vkt_barra_progresso").css("width")!=100){
+                        carregabarra(url);
+                    }
+            
+                });
+            }
+                
+            
+            function chegouao100porcento(){
+                $('#vkt_barra_progresso').css('width','100%');
+            }
+</script>
+
+4 - criar o arquivo  informaco_do_progresso.php na mesma pasta, o conteudo do arquivo 
+	<?
+    $info = uploadprogress_get_info($_GET['id_progresso']);
+	$porcentagem = @($info['bytes_uploaded']/$info['bytes_total'])*100;
+	echo number_format($porcentagem,2,',','.');
+?>

@@ -1,0 +1,2 @@
+[11-Apr-2013 10:46:20 America/Boa_Vista] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/escolar2/cancelar_matricula/form.php on line 86
+[11-Apr-2013 10:46:49 America/Boa_Vista] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/nv/public_html/sis/modulos/escolar2/cancelar_matricula/form.php on line 86

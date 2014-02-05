@@ -1,0 +1,7 @@
+[28-Jun-2012 15:43:22 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/materia/form.php on line 78
+[28-Jun-2012 15:44:28 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/materia/form.php on line 78
+[05-Jul-2012 19:50:44 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/materia/form.php on line 78
+[05-Jul-2012 19:51:16 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/materia/form.php on line 78
+[05-Jul-2012 19:52:48 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/materia/form.php on line 78
+[05-Jul-2012 19:53:10 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/materia/form.php on line 78
+[27-Sep-2012 20:57:25 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar/materia/form.php on line 78

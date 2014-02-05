@@ -1,0 +1,23 @@
+<?php
+	$file = fopen("modulos/eleitoral/importacao_radio/arquivos/$usuario_id.$extensao",'r');
+	
+	while(!feof($file)){
+		$linha = fgets($file);
+		$dados = explode(";",$linha);
+		
+		$nome     = $dados[0];
+		$endereco = $dados[3];
+		$bairro   = $dados[4];
+		$cep      = $dados[5];
+		$telefone1= $dados[6];
+		$telefone2= $dados[7];
+		$email    = $dados[8];
+		
+		$existe = mysql_fetch_object(mysql_query($t="SELECT * FROM eleitoral_eleitores WHERE vkt_id='169' AND email='$email'"));
+		echo $t."<br>";
+		if(!$existe->id>0){
+			$t="INSERT INTO eleitoral_eleitores SET vkt_id='169', nome='$nome', endereco='$endereco', bairro='$bairro', cep='$cep', telefone1='$telefone1', telefone2='$telefone2', email='$email'";
+			echo $t;
+		}
+	}
+?>

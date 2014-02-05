@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Documento sem t&iacute;tulo</title>
+<style>
+ body{ margin:0;  padding:0;  background-color:#FAFAFA;  font:12pt "Tahoma"}
+ 
+ /* impressao na vertical */
+.page{ width:21cm;  padding:1cm;  margin:1cm auto;  height:277mm;  border:1px #D3D3D3 solid;  border-radius:5px;  background:white;  box-shadow:0 0 5px rgba(0,0,0,0.1)}
+
+ /* impressao na horizontal */
+.page{ width:277mm;  padding:1cm;  margin:1cm auto;  height:21cm;  border:1px #D3D3D3 solid;  border-radius:5px;  background:white;  box-shadow:0 0 5px rgba(0,0,0,0.1)}
+
+
+small{ font-size:11pt}
+.header{padding:0 0 15px}
+.header p{text-align:center}
+.uppercase{text-transform:uppercase}
+.header p span{font-weight:bold; text-transform:uppercase}
+.content .paragraph{padding:0 0 18px; display:block}
+.content .text{text-align:justify}
+.footer{padding:100px 0 0}
+.footer p{text-align:center; float:left}
+@page{ size:A4;  margin:0}
+
+/* configuracao atribuida na hora da impressao */
+@media print{ .page{margin:0; border:initial; border-radius:initial; width:initial; min-height:initial; box-shadow:initial; background:initial; page-break-after:always}
+}
+</style>
+</head>
+<body>
+
+<div class="page">
+oi
+</div>
+</body>
+</html>

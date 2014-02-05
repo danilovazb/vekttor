@@ -1,0 +1,2 @@
+[11-Mar-2013 11:20:59 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/cargos/_ctrl.php on line 18
+[11-Mar-2013 11:21:06 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/cargos/_ctrl.php on line 18

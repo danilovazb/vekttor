@@ -1,0 +1,16 @@
+[18-Sep-2012 23:03:46 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[18-Sep-2012 23:03:55 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[18-Sep-2012 23:04:20 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[18-Sep-2012 23:05:33 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[18-Sep-2012 23:05:44 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[19-Sep-2012 19:09:24 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[20-Sep-2012 18:39:48 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[20-Sep-2012 18:40:20 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[20-Sep-2012 18:42:08 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[20-Sep-2012 18:42:17 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[20-Sep-2012 18:43:17 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/form.php on line 113
+[20-Sep-2012 20:05:23 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/_ctrl.php on line 7
+[21-Sep-2012 15:51:41 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/_ctrl.php on line 16
+[21-Sep-2012 15:51:56 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/_ctrl.php on line 16
+[21-Sep-2012 15:52:11 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/_ctrl.php on line 16
+[21-Sep-2012 15:52:15 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/ordem_servico/relatorios/receitas/_ctrl.php on line 16

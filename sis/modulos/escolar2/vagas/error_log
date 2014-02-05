@@ -1,0 +1,5 @@
+[11-Mar-2013 14:41:58 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/vagas/form.php on line 59
+[11-Mar-2013 14:46:45 America/Boa_Vista] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/nv/public_html/sis/modulos/escolar2/vagas/form.php on line 59
+[11-Mar-2013 14:56:03 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/vagas/_functions.php on line 124
+[11-Mar-2013 15:15:44 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/vagas/form.php on line 64
+[11-Mar-2013 15:15:44 America/Boa_Vista] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar2/vagas/form.php on line 64

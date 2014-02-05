@@ -1,0 +1,188 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1795" measuredH="810" mockupW="1754" mockupH="797">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="771" y="42" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Titulo%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Arrow" x="863" y="226" w="115" h="60" measuredW="150" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Clique%20em%20cima%20da%20S%E9rie</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="41" y="13" w="109" h="155" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Defini%E7%E3o%20de%20turma%20por%20horario%20/%20sala%0AOnde%20vai%20ficar%20a%20organiza%E7%E3o%20de%20horarios%20de%20aulas</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::DataGrid" x="771" y="160" w="1024" h="590" measuredW="355" measuredH="411" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Escola/S%E9rie%20%20%5E%2C%20Turma%2C%20Sala%2C%20Hor%E1rio%2C%20%0AEnsino%20Fundamental%2C%20%2C%20%2C%0A%20%20%20%201%AA%20S%E9rie%2C%20%2C%20%2C%0A%20%20%20%20%2CTurma001%2C%20Sala%201A%2C%20Matutino%0A%20%20%20%20%2CTurma002%2C%20Sala%201B%2C%20Matutino%0A%20%20%20%202%AA%20S%E9rie%2C%20%2C%20%2C%20%5B-%5D%0A%20%20%20%203%AA%20S%E9rie%2C%20%2C%20%2C%20%5B-%5D%0A%20%20%20%204%AA%20S%E9rie%2C%20%2C%20%2C%20%5B-%5D%0A%20%20%20%205%AA%20S%E9rie%2C%20%2C%20%2C%20%5B-%5D%0A%20%20%20%206%AA%20S%E9rie%2C%20%2C%20Patata%2C%20%5B-%5D%0AEnsino%20M%E9dio%2C%20%3A%29%2C%20Val%2C%20%5Bx%5D%0A%20%20%20%201%AA%20Ano%2C%206%2C%20The%20Guids%2C%20%5B%5D%0A%20%20%20%202%AA%20Ano%2C%206%2C%20The%20Guids%2C%20%5B%5D%0A%20%20%20%203%AA%20Ano%2C%206%2C%20The%20Guids%2C%20%5B%5D%0A%7B25L%2C%2010L%2C%2010%2C%2010L%2C%2020C%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Arrow" x="1516" y="544" w="277" h="84" measuredW="150" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Clique%2C%20vai%20para%20tela%20de%20organizar%20Professor/Mat%E9ria/Hor%E1rio</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="__group__" x="109" y="242" w="450" h="400" measuredW="450" measuredH="400" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="450" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="67">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Informa%E7%F5es%20-%20Turma</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="32" y="46" w="-1" h="-1" measuredW="186" measuredH="17" zOrder="1" locked="false" isInGroup="67">
+          <controlProperties>
+            <bold>true</bold>
+            <size>14</size>
+            <text>Ensino%3A%20Ensino%20Fundamental</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="32" y="78" w="-1" h="-1" measuredW="136" measuredH="17" zOrder="2" locked="false" isInGroup="67">
+          <controlProperties>
+            <bold>true</bold>
+            <size>14</size>
+            <text>S%E9rie%3A%20S%E9rie%20alocada</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="32" y="111" w="-1" h="-1" measuredW="123" measuredH="17" zOrder="3" locked="false" isInGroup="67">
+          <controlProperties>
+            <bold>true</bold>
+            <size>14</size>
+            <text>Sala%3A%20Sala%20alocada</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="32" y="143" w="-1" h="-1" measuredW="163" measuredH="17" zOrder="4" locked="false" isInGroup="67">
+          <controlProperties>
+            <bold>true</bold>
+            <size>14</size>
+            <text>Hor%E1rio%3A%20Hor%E1rio%20alocado</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="33" y="194" w="-1" h="-1" measuredW="108" measuredH="27" zOrder="5" locked="false" isInGroup="67">
+          <controlProperties>
+            <text>Nome%20da%20Turma</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="168" y="194" w="-1" h="-1" measuredW="102" measuredH="27" zOrder="6" locked="false" isInGroup="67">
+          <controlProperties>
+            <text>Valor%20matr%EDcula</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="295" y="194" w="-1" h="-1" measuredW="123" measuredH="27" zOrder="7" locked="false" isInGroup="67">
+          <controlProperties>
+            <text>Valor%20mensalidade</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="358" y="332" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="8" locked="false" isInGroup="67">
+          <controlProperties>
+            <text>Atualizar</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="24" y="332" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="9" locked="false" isInGroup="67">
+          <controlProperties>
+            <text>Excluir</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="68" controlTypeID="__group__" x="905" y="295" w="611" h="433" measuredW="611" measuredH="433" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="611" h="433" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="68">
+          <controlProperties>
+            <dragger>true</dragger>
+            <text>Cria%E7%E3o%20de%20Turmas</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="199" y="60" w="155" h="-1" measuredW="73" measuredH="24" zOrder="1" locked="false" isInGroup="68">
+          <controlProperties>
+            <text>Hor%E1rio</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="27" y="60" w="143" h="-1" measuredW="104" measuredH="24" zOrder="2" locked="false" isInGroup="68">
+          <controlProperties>
+            <text>Sala%20de%20aula</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="27" y="126" w="143" h="-1" measuredW="113" measuredH="27" zOrder="3" locked="false" isInGroup="68">
+          <controlProperties>
+            <text>Nomda%20da%20turma</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="200" y="126" w="113" h="-1" measuredW="102" measuredH="27" zOrder="4" locked="false" isInGroup="68">
+          <controlProperties>
+            <text>Valor%20matr%EDcula</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="348" y="126" w="130" h="-1" measuredW="123" measuredH="27" zOrder="5" locked="false" isInGroup="68">
+          <controlProperties>
+            <text>Valor%20mensalidade</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="181" w="611" h="216" measuredW="368" measuredH="196" zOrder="6" locked="false" isInGroup="68">
+          <controlProperties>
+            <rowHeight>35</rowHeight>
+            <text>Name%20%20%5E%2C%20R%24%20Matricula%20%5Ev%2C%20R%24%20Mensalidade%20%5Ev%2C%20Organizar%0ATurma001%2C%2080.00%2C80.00%2C%0ATurma002%2C%20120.00%2C%20120.00%2C%0ATurma003%2C%2090.00%2C%2090.00%2C%0ATurma004%2C%2080.00%2C%2080.00%2C%0ATurma005%2C%2070.00%2C%2080.00%2C%20%0A%7B40L%2C%2020L%2C%2023L%2C%2018C%7D</text>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="520" y="126" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="7" locked="false" isInGroup="68">
+          <controlProperties>
+            <icon>SquaredPlusIcon%7Cxsmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::PointyButton" x="508" y="203" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="8" locked="false" isInGroup="68">
+          <controlProperties>
+            <direction>center</direction>
+            <menuIcon>false</menuIcon>
+            <size>11</size>
+            <text>Hor%E1rios</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::PointyButton" x="508" y="236" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="9" locked="false" isInGroup="68">
+          <controlProperties>
+            <direction>center</direction>
+            <menuIcon>false</menuIcon>
+            <size>11</size>
+            <text>Hor%E1rios</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::PointyButton" x="508" y="270" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="10" locked="false" isInGroup="68">
+          <controlProperties>
+            <direction>center</direction>
+            <menuIcon>false</menuIcon>
+            <size>11</size>
+            <text>Hor%E1rios</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::PointyButton" x="508" y="306" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="11" locked="false" isInGroup="68">
+          <controlProperties>
+            <direction>center</direction>
+            <menuIcon>false</menuIcon>
+            <size>11</size>
+            <text>Hor%E1rios</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::PointyButton" x="504" y="341" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="12" locked="false" isInGroup="68">
+          <controlProperties>
+            <direction>center</direction>
+            <menuIcon>false</menuIcon>
+            <size>11</size>
+            <text>Ocupados</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::ComboBox" x="1651" y="130" w="129" h="-1" measuredW="80" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hor%E1rios</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

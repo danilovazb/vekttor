@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+/* CSS Document */
+a{ text-decoration:none;}
+.plano_pai{ color:#999; font-weight:bold;}
+.smn0{ background:#ECECEC;}
+.smn6{ background:#ECECEC;}
+
+
+thead tr td{  padding:0 2px 0 2px; text-align:right; }
+tbody tr td{ cursor:auto; font-size:10px; padding:2px;vertical-align:top }
+tbody tr:hover td{ background:inherit; color:inherit; }
+
+
+tbody tr:hover .smn0,tbody tr:hover .smn6{background:#ECECEC;}
+
+tbody tr td a{ cursor:default;transition:all 0.4s; padding:3px 0 3px 0; display:block; height:13px; line-height:13px; }
+tbody tr td a:hover{ background:#8BA7C9; color:#FFF;}
+tbody tr td a:hover s{ color:#FFF;}
+tbody tr td b{ display:block; text-align:right; font-weight:normal; color:#666}
+tbody tr td i{ display:block; float:left; width:65px; text-align:right; font-style:normal; }
+tbody tr td u{ display:block; float:left; width:95px; text-align:left; overflow:hidden; height:14px; text-decoration:none; }
+tbody tr td s{ float:left; font-size:9px; color:#999;transition:all 0.4s;}
+
+ .ui-tooltip, .arrow:after {
+background: #FFF;
+}
+

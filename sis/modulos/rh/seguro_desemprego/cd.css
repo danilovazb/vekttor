@@ -1,0 +1,42 @@
+body,td,th,textarea {	font-family: Tahoma, Arial;	font-size: 12px;}
+body{ background:#9099AE; }
+#menu{
+	position:absolute;
+	top:00px;
+	left:0px;
+	width:201px;
+	 background-image:url(img/fundomenu.jpg);
+	height:630px;
+}
+.menu_tx{
+	margin:0px 20px 10px 2px;
+	background:#DDECFE;
+	border-top: solid 3px #4A7AC9;
+	border-right:solid 1px #FFFFFF;
+	border-bottom:solid 1px #FFFFFF;
+	padding:20px;
+	color:#4A7AC9;
+	font-size:10px;
+}
+.menu_tx a{
+	display:block;
+	color:#4A7AC9;
+	text-decoration:none;
+	margin:2px;
+}
+.menu_tx a:hover{
+	color:#FF9000;
+}
+#win_add_cont{
+	position:absolute;
+	left:33px;
+	top:11px;
+}
+.titulo_janela{color:#FFFFFF;font-weight:bold;}
+.arv_botao{display:block;width:73px;height:21px;background-image:url(img/botao.gif);color:#000000;text-decoration:none;line-height:21px; text-align:center;}
+.arv_botao:hover{background-image:url(img/botao_over.gif);}
+.arv_fecha_msg{background-image:url(img/xcaixa.gif);display:block;width:21px;height:21px;float:right;margin-top:-14px;border:0px;}
+.arv_fecha_msg:hover{background-image:url(img/xcaixa_over.gif);}
+#arv_mensagem{z-index:10000;position:absolute;left:200px;top:100px;}
+.input_box{border:solid 1px #666666;font-size:10px;}
+.input_button{width:150px;}

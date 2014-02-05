@@ -1,0 +1,29 @@
+#formstar{width:23px; height:30px; float:left; margin-right:5px; cursor:pointer}
+.star{ background:url(../../../../../fontes/img/st.png);  width:23px; height:30px; float:left; margin-right:10px;}
+
+.atv{border-right:0; padding-left:5px;}
+.brp{ width:10px; height:11px; background:url(../../../../../fontes/img/pp.png) }
+.brp:hover{ background-position:0 -22px; }
+
+.brp0{ width:10px; height:11px;  }
+
+.brp2{ width:10px; height:11px; background:url(../../../../../fontes/img/pp.png) 0 -11px; }
+.brp2:hover{ background-position:0 -33px; }
+
+.azul td{ color:#0066FF; font-weight:bold;  }
+#tabela_dados input{ width:15px; height:15px;}
+#tabela_dados td{ border:0;}
+.bgpr{clear:both; height:34px; line-height:34px; overflow:hidden; font-weight:bold; font-size:11px; color:#464646; background:url(../../../../../fontes/img/bga.png); padding-left:10px;}
+.bgpr_sel{clear:both; height:34px; line-height:34px; overflow:hidden; font-weight:bold; font-size:11px; color:#FFF; background:url(../../../../../fontes/img/bga2.png);text-shadow:#000 0 0 3px;padding-left:10px;}
+.bgpr,.bgpr_sel{cursor:pointer;}
+.bgpr div,.bgpr_seldiv{}
+.infd{float:right; width:30px; text-align:center;}
+#tabela_dados td{ height:30px; font-size:12px;}
+tbody tr:hover td{background-image:none; background:#F0F0F0; color:#000;}
+.star{ background:url(../../../../../fontes/img/st.png);  width:23px; height:30px; float:right; margin-right:10px;}
+.bgst{ background:url(../../../../../fontes/img/stbg.png); }
+.ha{ float:right; font-size:9px; color:#CCCCCC; line-height:30px; margin-right:10px;}
+#tarefasref{float:right; margin-right:10px; color:#999; font-size:10px}
+#tarefasref a { text-decoration:none;}
+#tarefasref a:hover { text-decoration:underline;}
+.redb td{ color:#F00}

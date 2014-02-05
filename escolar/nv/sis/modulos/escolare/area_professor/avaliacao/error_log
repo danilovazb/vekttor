@@ -1,0 +1,12 @@
+[28-Jun-2012 20:51:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:51:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:51:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:51:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:52:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:52:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:52:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:53:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:53:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:53:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:54:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37
+[28-Jun-2012 20:54:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nv/public_html/sis/modulos/escolar/area_professor/avaliacao/recebe_nota_aluno.php on line 37

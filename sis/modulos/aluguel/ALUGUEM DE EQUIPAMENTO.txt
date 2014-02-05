@@ -1,0 +1,92 @@
+SISTEMA DE ALUGUEL DE EQUIPAMENTO
+
+	• Locação / Devoluções Equipamento
+	• Reservar Equipamento
+	• Cancelar Locação
+	• Imprimir Reserva 
+	• Relatorio Locação / Devoluções Equipamento
+	• OPÇÃO DE CONTROLAR AS Locação POR STATUS.
+	• Relatorio de Equipamentos Disponíveis e QTD		
+
+
+OBS = Essa Tabela ja existe no BD - Somente para visualizacao
+
+CREATE TABLE cliente_fornecedor (
+  id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY(id)
+);
+
+
+TABELA NOVA:
+CREATE TABLE equipamento (
+  id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  descricao VARCHAR(100) NULL,
+  modelo VARCHAR(50) NULL,
+  fabricante VARCHAR(80) NULL,
+  data_cadastro DATE NULL,
+  PRIMARY KEY(id)
+);
+
+
+TABELA NOVA:
+CREATE TABLE item_equipamento (
+  id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  equipamento_id INTEGER UNSIGNED NOT NULL,
+  numero_serie VARCHAR(20) NULL,
+  status_equipamento ENUM('1','2') NULL,
+  PRIMARY KEY(id),
+  INDEX item_equipamento_FKIndex1(equipamento_id)
+);
+// comentario da coluna status_equipamento 
+1='Disponivel',2='Indisponivel'
+
+
+
+TABELA  NOVA
+CREATE TABLE item_locacao (
+  id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  item_equipamento_id INTEGER UNSIGNED NOT NULL,
+  locacao_id INTEGER UNSIGNED NOT NULL,
+  qtd_equipamento INTEGER UNSIGNED NULL,
+  valor_unitario FLOAT NULL,
+  valor_total FLOAT NULL,
+  status_item ENUM('1','2') NULL,
+  obs_item_locacao TEXT NULL,
+  obs_item_devolucao TEXT NULL,
+  data_devolucao_item DATE NULL,
+  PRIMARY KEY(id),
+  INDEX item_locacao_fk(locacao_id),
+  INDEX item_locacao_equipamento_fk(item_equipamento_id)
+);
+//Comentario da Tabela status_item 
+1='Locado',2='Devolvido'
+
+TABELA NOVA:
+CREATE TABLE locacao (
+  id INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  cliente_fornecedor_id INTEGER UNSIGNED NOT NULL,
+  descricao TEXT NULL,
+  data_locacao DATE NULL,
+  data_devolucao DATE NULL,
+  data_reserva DATE NULL,
+  observacao_locacao TEXT NULL,
+  observacao_devolucao TEXT NULL,
+  status_locacao ENUM('1','2','3','4','5','6') NULL,
+  valor_total FLOAT NULL,
+  PRIMARY KEY(id),
+  INDEX locacao_item_fk(cliente_fornecedor_id)
+);
+//Comentario da COluna status_locacao 
+1='Locada',2='Em Andamento',3='Reserva',4='Cancelada',5='Parcialmente Devolvida',6='Devolvida'
+
+
+codigo descricao  
+41	descricao locacao 
+	1 - DVD
+	2 - Andaime
+	3 - nao sei
+
+descricao locao 
+	1 - DVD
+	2 - Andaime
+	3 - nao sei
