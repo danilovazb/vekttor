@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Servidor: localhost
--- Tempo de Geração: Fev 06, 2014 as 01:24 PM
+-- Tempo de Geração: Fev 06, 2014 as 07:12 PM
 -- Versão do Servidor: 5.1.44
 -- Versão do PHP: 5.3.1
 
@@ -26,7 +26,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 --
 
 CREATE TABLE IF NOT EXISTS `paineis` (
-  `id` int(11) NOT NULL,
+  `id` int(11) NOT NULL AUTO_INCREMENT,
   `vkt_id` int(11) NOT NULL,
   `financeiro_conta_id` int(11) NOT NULL,
   `financeiro_centro_de_custo_id` int(11) NOT NULL,
@@ -52,5 +52,6 @@ CREATE TABLE IF NOT EXISTS `paineis` (
   `sab_fim` time NOT NULL,
   `dom_ini` time NOT NULL,
   `dom_fim` time NOT NULL,
-  PRIMARY KEY (`id`,`vkt_id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+  PRIMARY KEY (`id`),
+  KEY `vkt_id` (`vkt_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;

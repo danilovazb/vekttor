@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Servidor: localhost
--- Tempo de Geração: Fev 06, 2014 as 01:44 PM
+-- Tempo de Geração: Fev 06, 2014 as 07:15 PM
 -- Versão do Servidor: 5.1.44
 -- Versão do PHP: 5.3.1
 
@@ -34,3 +34,8 @@ CREATE TABLE IF NOT EXISTS `paineis_planos` (
   `valor` float NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+--
+-- Extraindo dados da tabela `paineis_planos`
+--
+
