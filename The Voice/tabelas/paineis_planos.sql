@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Servidor: localhost
--- Tempo de Geração: Fev 06, 2014 as 07:15 PM
+-- Tempo de Geração: Fev 06, 2014 as 08:18 PM
 -- Versão do Servidor: 5.1.44
 -- Versão do PHP: 5.3.1
 
@@ -27,15 +27,10 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 CREATE TABLE IF NOT EXISTS `paineis_planos` (
   `id` int(11) NOT NULL,
-  `paineis_id` int(11) NOT NULL,
+  `painel_id` int(11) NOT NULL,
   `nome` varchar(40) NOT NULL,
   `insercoes` int(11) NOT NULL,
   `dias` int(11) NOT NULL,
   `valor` float NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
-
---
--- Extraindo dados da tabela `paineis_planos`
---
-
