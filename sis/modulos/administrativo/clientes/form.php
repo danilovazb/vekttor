@@ -5,7 +5,7 @@ include("../../../_functions_base.php");
 include("_functions.php");
 include("_ctrl.php");
 ?>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2" />
+<meta charset="utf-8"> 
 <link href="../../../../fontes/css/sis.css" rel="stylesheet" type="text/css" />
 <div id='exibe_formulario' class='exibe_formulario'  style="top:30px; left:50px;">
 <div id='aSerCarregado'>
@@ -18,14 +18,14 @@ include("_ctrl.php");
     
     <span>Clientes</span></div>
     </div>
-	<form onsubmit="return validaForm(this)" class="form_float" method="post" id="form_cliente" enctype="multipart/form-data" target="">
+	<form onsubmit="return validaForm(this)" class="form_float" method="post" id="form_cliente" enctype="multipart/form-data" target="<?=$_GET['target']?>" action="<?=$_GET['action']?>">
 	<!-- Sempre usar fieldset e nao esquecer de colocar o numero da legenda na funcao aba_form-->
-	<input id='tipo_cadastro' name="tipo_cadastro" type="hidden" value="<? if($cliente_fornecedor->id>0)echo $cliente_fornecedor->tipo_cadastro; else echo "Jurídico"; ?>" />
+	<input id='tipo_cadastro' name="tipo_cadastro" type="hidden" value="<? if($cliente_fornecedor->id>0)echo $cliente_fornecedor->tipo_cadastro; else echo "JurĂ­dico"; ?>" />
 	<input name="cliente_fornecedor_id" type="hidden" value="<?=$cliente_fornecedor_id?>" />
-		<fieldset  id='campos_1' <? if($cliente_fornecedor->tipo_cadastro=="Físico")echo 'style="display:none"'; ?> >
+		<fieldset  id='campos_1' <? if($cliente_fornecedor->tipo_cadastro=="FĂ­sico")echo 'style="display:none"'; ?> >
 			<legend>
-				<a onclick="aba_form(this,0); document.getElementById('tipo_cadastro').value='Jurídico';"><strong>Jurídico</strong></a>
-				<a onclick="aba_form(this,1); document.getElementById('tipo_cadastro').value='Físico';">Físico</a>
+				<a onclick="aba_form(this,0); document.getElementById('tipo_cadastro').value='JurĂ­dico';"><strong>JurĂ­dico</strong></a>
+				<a onclick="aba_form(this,1); document.getElementById('tipo_cadastro').value='FĂ­sico';">FĂ­sico</a>
                 <? if($cliente_fornecedor->id>0){?><a onclick="aba_form(this,2);">Documentos</a><? } ?>
 			</legend>
 			<div>
@@ -41,7 +41,7 @@ include("_ctrl.php");
 			</label>
             <? 
 			
-			if(!empty($cliente_fornecedor->extensao)&&$cliente_fornecedor->tipo_cadastro=="Jurídico"){?>
+			if(!empty($cliente_fornecedor->extensao)&&$cliente_fornecedor->tipo_cadastro=="JurĂ­dico"){?>
             <div style="position:absolute;width:200px;height:165px;margin-left:630px;" class="div_foto_cliente">
             	<div>Foto</div>
                 <div style="width:150px;max-height:100px;">
@@ -130,13 +130,13 @@ include("_ctrl.php");
                         
 		</fieldset>
 		
-		<fieldset  id='campos_2' <? if($cliente_fornecedor->tipo_cadastro=="Jurídico"||empty($cliente_fornecedor_id)){ echo 'style="display:none"'; }?> >
+		<fieldset  id='campos_2' <? if($cliente_fornecedor->tipo_cadastro=="JurĂ­dico"||empty($cliente_fornecedor_id)){ echo 'style="display:none"'; }?> >
 			<legend>
-				<a onclick="aba_form(this,0); document.getElementById('tipo_cadastro').value='Jurídico';">Jurídico</a>
-				<a onclick="aba_form(this,1); document.getElementById('tipo_cadastro').value='Físico';"><strong>Físico</strong></a>
+				<a onclick="aba_form(this,0); document.getElementById('tipo_cadastro').value='JurĂ­dico';">JurĂ­dico</a>
+				<a onclick="aba_form(this,1); document.getElementById('tipo_cadastro').value='FĂ­sico';"><strong>FĂ­sico</strong></a>
                   <? if($cliente_fornecedor->id>0){?><a onclick="aba_form(this,2);">Documentos</a><? } ?>
 			</legend>
-			<input type="hidden" name="j_tipo" value="<? if($cliente_fornecedor->tipo_cadastro=="Físico") echo $cliente_fornecedor->tipo?>">
+			<input type="hidden" name="j_tipo" value="<? if($cliente_fornecedor->tipo_cadastro=="FĂ­sico") echo $cliente_fornecedor->tipo?>">
 			
 			<div style="clear:both"></div>
             <div style="max-height:450px;overflow:auto;">
@@ -148,7 +148,7 @@ include("_ctrl.php");
 				Ramo de Atividade
 				<input type="text" id='f_ramo_atividade' name="f_ramo_atividade" value="<?=$cliente_fornecedor->ramo_atividade?>" />
 			</label>
-            <? if(!empty($cliente_fornecedor->extensao)&&$cliente_fornecedor->tipo_cadastro=="Físico"){?>
+            <? if(!empty($cliente_fornecedor->extensao)&&$cliente_fornecedor->tipo_cadastro=="FĂ­sico"){?>
             <div style="position:absolute;width:200px;height:165px;margin-left:630px;" class="div_foto_cliente">
             	<div>Foto</div>
                 <div style="width:150px;max-height:100px;">
@@ -359,8 +359,8 @@ include("_ctrl.php");
         
         <fieldset  id='campos_3' style="display:none">
 			<legend>
-				<a onclick="aba_form(this,0); document.getElementById('tipo_cadastro').value='Jurídico';">Jur&iacute;dico</a>
-				<a onclick="aba_form(this,1); document.getElementById('tipo_cadastro').value='Físico';">F&iacute;sico</a>
+				<a onclick="aba_form(this,0); document.getElementById('tipo_cadastro').value='JurĂ­dico';">Jur&iacute;dico</a>
+				<a onclick="aba_form(this,1); document.getElementById('tipo_cadastro').value='FĂ­sico';">F&iacute;sico</a>
                  <? if($cliente_fornecedor->id>0){?><a onclick="aba_form(this,2);"><strong>Documentos</a></strong><? } ?>
 			</legend>
 						
@@ -442,4 +442,10 @@ include("_ctrl.php");
 </div>
 </div>
 </div>
-<script>top.openForm()</script>
+<?
+if($_GET['nao_abre']!=1){
+	?>
+    <script>top.openForm()</script>
+    <?
+}
+?>
