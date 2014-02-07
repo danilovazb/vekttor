@@ -96,6 +96,7 @@ input,textarea{ display:block;}
         <div style="clear:both; margin-bottom:5px;margin-top:5px; "><strong>Dados para lançamento em contas a receber</strong></div>
         <label>
         	<select name="financeiro_conta_id">
+            <option value="0">Conta</option>
             <?
             $contas_q=mq("SELECT id, nome FROM financeiro_contas WHERE cliente_vekttor_id='$vkt_id' ORDER BY nome ASC");
 			while($conta=mf($contas_q)){
@@ -110,22 +111,8 @@ input,textarea{ display:block;}
             </select>
             </label>
             <label>
-            <select name="financeiro_plano_de_conta_id">
-             <?
-            $planos_q=mq("SELECT id, nome FROM financeiro_centro_custo WHERE cliente_id='$vkt_id' AND plano_ou_centro='plano' ORDER BY nome ASC");
-			while($plano=mf($planos_q)){
-				if($painel->financeiro_plano_de_conta_id==$plano->id){$sel="selected='selected'";}else{$sel='';}
-			?>
-            	<option <?=$sel?> value="<?=$plano->id?>">
-                <?=$plano->nome?>
-                </option>
-            <?
-			}
-			?>
-            </select>
-            </label>
-            <label>
             <select name="financeiro_centro_de_custo_id">
+            <option value="0">Centro de custo</option>
             <?
             $centro_q=mq("SELECT id, nome FROM financeiro_centro_custo WHERE cliente_id='$vkt_id' AND plano_ou_centro='centro' ORDER BY nome ASC");
 			while($centro=mf($centro_q)){
@@ -139,6 +126,23 @@ input,textarea{ display:block;}
 			?>
             </select>
             </label>
+            <label>
+            <select name="financeiro_plano_de_conta_id">
+            <option value="0">Plano de conta</option>
+             <?
+            $planos_q=mq("SELECT id, nome FROM financeiro_centro_custo WHERE cliente_id='$vkt_id' AND plano_ou_centro='plano' ORDER BY nome ASC");
+			while($plano=mf($planos_q)){
+				if($painel->financeiro_plano_de_conta_id==$plano->id){$sel="selected='selected'";}else{$sel='';}
+			?>
+            	<option <?=$sel?> value="<?=$plano->id?>">
+                <?=$plano->nome?>
+                </option>
+            <?
+			}
+			?>
+            </select>
+            </label>
+            
 	</fieldset>
     <fieldset  id='campos_1' style="display:none;">
 		<legend>
